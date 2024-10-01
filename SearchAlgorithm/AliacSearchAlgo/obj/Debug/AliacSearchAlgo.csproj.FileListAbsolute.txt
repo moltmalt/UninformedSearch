@@ -1,0 +1,9 @@
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.exe
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\bin\Debug\AliacSearchAlgo.pdb
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.AssemblyReference.cache
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Form1.resources
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.Properties.Resources.resources
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.GenerateResource.cache
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.csproj.CoreCompileInputs.cache
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.exe
+D:\OneDrive - Cebu Institute of Technology University\3rd Year\CS345 IS1\Activities\moltbaby\SearchAlgorithm\AliacSearchAlgo\obj\Debug\AliacSearchAlgo.pdb
